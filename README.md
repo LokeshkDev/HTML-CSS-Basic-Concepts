@@ -37,4 +37,4 @@ It contains Basic concepts of HTML and CSS for beginers and for also shifing fro
 This will move your current folder to GitHub.
 
 Access my URL use "/" add the particular folder and see the outupt 
-https://lokeshk2492.github.io/
+https://lokeshk2492.github.io/HTML-CSS-Basic-Concepts
